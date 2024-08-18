@@ -19,8 +19,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [solution]()
-- Live Site URL: [live]()
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/four-card-feature-section-solution-gs9BkSm8Nz)
+- Live Site URL: [live](https://lackevil.github.io/four-card-feature-section-solution/)
 
 ## My process
 
